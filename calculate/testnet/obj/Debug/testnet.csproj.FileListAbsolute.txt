@@ -1,0 +1,16 @@
+D:\projectvisualstudio\testnet\testnet\bin\Debug\testnet.exe.config
+D:\projectvisualstudio\testnet\testnet\bin\Debug\testnet.exe
+D:\projectvisualstudio\testnet\testnet\bin\Debug\testnet.pdb
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.csproj.AssemblyReference.cache
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.csproj.SuggestedBindingRedirects.cache
+D:\projectvisualstudio\testnet\testnet\obj\Debug\MainWindow.g.cs
+D:\projectvisualstudio\testnet\testnet\obj\Debug\App.g.cs
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet_MarkupCompile.cache
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet_MarkupCompile.lref
+D:\projectvisualstudio\testnet\testnet\obj\Debug\MainWindow.baml
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.g.resources
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.Properties.Resources.resources
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.csproj.GenerateResource.cache
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.csproj.CoreCompileInputs.cache
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.exe
+D:\projectvisualstudio\testnet\testnet\obj\Debug\testnet.pdb
